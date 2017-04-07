@@ -1,2 +1,2 @@
-require './Kyle'
+require './main'
 run Sinatra::Application
