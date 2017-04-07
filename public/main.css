@@ -71,15 +71,6 @@ body {
 .project .projectDesc{
 	display: none;
 }
-/*
-.projectButtons{
-	height: 20px;
-	width: 150px;
-}
-div .projectButtons{
-	display: none;
-}
-*/
 .projectGif{
 	height: 350px;
 	width: 80%;
