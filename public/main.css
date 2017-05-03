@@ -6,6 +6,9 @@
 	z-index: -1;
 	opacity: 0.75;
 }
+nav {
+	color: white;
+}
 body {
 	font-family: 'Rajdhani', sans-serif;
 }
